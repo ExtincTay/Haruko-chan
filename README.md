@@ -1,4 +1,4 @@
-# TayMod
+# Haruko-chan
 a discord moderation bot i made
 
 
